@@ -1,1 +1,2 @@
 # news
+# Long live
